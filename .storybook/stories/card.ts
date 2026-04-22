@@ -4,7 +4,7 @@ import { withKnobs, text, select } from '@storybook/addon-knobs';
 import { html, TemplateResult } from 'lit-html';
 import '../../src/components/card';
 
-const img: string= 'https://source.unsplash.com/random/600x400/';
+const img: string= 'https://picsum.photos/600/400';
 
 const background: object = {
   white: 'white',
